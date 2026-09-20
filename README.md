@@ -49,7 +49,7 @@ Mobile computers are portable devices that allow users to perform computing task
 - Engineering
 - Scientific research
 - Entertainment
-- 
+   
 **Computers are important tools in modern society.**
 *It plays a great role in Development of the World.*
 *Computer technology continues to develop with time.*
