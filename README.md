@@ -6,6 +6,6 @@ A computer is an electronic device that accepts data as input, processes it acco
 
 Computers are used in many areas such as education, business, communication, science, engineering, healthcare, and entertainment.
 
-##The basic working process of a computer can be represented as:
+## The basic working process of a computer can be represented as:
 
 **Input → Processing → Storage → Output**
