@@ -78,3 +78,72 @@ Computer technology changed significantly over time. Early electronic computers 
 | 1960s | Integrated circuits became widely important |
 | 1970s onward | Microprocessors supported the growth of personal computers |
 | Modern era | Computing became widespread in personal and mobile devices |
+
+## Tools Used
+The Following Tools are used to make this pproject.
+- GIthub
+- Git
+- Markdown
+- Web Browser
+
+## Project Workflow
+
+The project was completed using the following Git and GitHub workflow:
+
+1. Created the GitHub repository.
+2. Created a student branch from the main branch.
+3. Added the introduction to computers.
+4. Added the types of computers.
+5. Added the history of computers.
+6. Created meaningful commits for the project stages.
+7. Created a Pull Request from the student branch to the main branch.
+8. Reviewed the changes.
+9. Merged the Pull Request into the main branch.
+10. Verified the completed project in the main branch.
+
+## STUDENT INFORMATION
+
+|Information  |Details  |
+|------|------|
+|Name       |Yusra Ansari   |
+|Roll Number  |26K-3132  |
+|Program    |BS Software Programming  |
+|Campus   |Fast-NUCES Karachi     |
+|Course   |Programming Fundamentals Lab  |
+
+## Code
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, Computer World!");
+    return 0;
+}
+```
+# MATERIAL — TASK LIST
+
+This is specifically required.
+
+## Project Tasks
+
+- [x] Create GitHub repository
+- [x] Create student branch
+- [x] Add introduction
+- [x] Add types of computers
+- [x] Add history of computers
+- [x] Create three meaningful commits
+- [x] Create Pull Request
+- [x] Review Pull Request
+- [x] Merge Pull Request
+- [x] Verify final main branch
+
+## Useful Link
+
+Visit [GitHub](https://github.com/) to learn more about GitHub.
+
+## Computer Image
+
+<img width="6000" height="3376" alt="Computer Images" src="https://github.com/user-attachments/assets/b13ce1d9-7181-413d-81f6-656fc69a3a9d" />
+
