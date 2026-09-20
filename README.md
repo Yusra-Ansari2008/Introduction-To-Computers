@@ -53,3 +53,28 @@ Mobile computers are portable devices that allow users to perform computing task
 **Computers are important tools in modern society.**
 *It plays a great role in Development of the World.*
 *Computer technology continues to develop with time.*
+
+## History of Computers
+
+The history of computers developed gradually from simple calculating devices to modern electronic and digital systems. Early devices were mainly created to assist with calculations, while modern computers can perform a wide range of tasks.
+### Charles Babbage
+
+Charles Babbage designed the Difference Engine and later proposed the Analytical Engine. The Analytical Engine included important ideas such as a processing unit, memory, and programmable instructions. His work became an important part of the early history of computing.
+### ENIAC
+
+ENIAC was an important early electronic digital computer developed at the University of Pennsylvania. It was designed by J. Presper Eckert and John Mauchly and was built for numerical calculations. Its development represented an important step in electronic computing.
+### Development of Computer Technology
+
+Computer technology changed significantly over time. Early electronic computers used vacuum tubes. Later systems used transistors, followed by integrated circuits and increasingly advanced semiconductor technology. These developments made computers smaller, faster, and more widely available.
+
+## Computer Development Timeline
+
+| Period | Development |
+|---|---|
+| Early period | Mechanical calculating devices were developed |
+| 19th century | Charles Babbage designed mechanical computing engines |
+| 1940s | Early electronic computers were developed |
+| 1950s | Transistor-based computers became important |
+| 1960s | Integrated circuits became widely important |
+| 1970s onward | Microprocessors supported the growth of personal computers |
+| Modern era | Computing became widespread in personal and mobile devices |
